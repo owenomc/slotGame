@@ -1,0 +1,3 @@
+C:/Users/oweno/CLionProjects/slotmachine/cmake-build-debug/CMakeFiles/slotmachine.dir
+C:/Users/oweno/CLionProjects/slotmachine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oweno/CLionProjects/slotmachine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
